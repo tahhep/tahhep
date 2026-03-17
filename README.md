@@ -21,5 +21,5 @@ Researcher, educator, and builder of practical AI/data tools.
 - Data pipelines
 
 ## Contacts
-- VK: [[[мой VK](https://vk.com/tahhep1)
+- VK: [мой VK](https://vk.com/tahhep1)
 - ORCID: [мой ORCID](https://orcid.org/my-orcid?orcid=0000-0003-1075-2962)
