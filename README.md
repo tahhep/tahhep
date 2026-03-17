@@ -3,7 +3,7 @@
 # Andrei Fomin
 
 ### Head of the Laboratory of Sociological Research and Informatics  
-### Researcher · Educator · Builder of AI, Data & Civic-Tech Systems
+### Исследователь · Преподаватель · Разработчик AI, data и civic-tech систем
 
 <p>
   <a href="https://orcid.org/0000-0003-1075-2962">
@@ -19,93 +19,128 @@
 </p>
 
 <p>
-  <i>Building practical digital systems for research, education, analytics, and real-world public tasks.</i>
+  <i>Создаю практические цифровые системы для науки, образования, аналитики и реальных общественно значимых задач.</i>
 </p>
 
 </div>
 
 ---
 
-## ✦ About
+## ✦ About / О себе
+
+### English
 
 I work at the intersection of **research, education, and applied digital development**.
 
 My work combines:
+- data analysis and analytical systems;
+- AI for education and applied workflows;
+- Telegram bots, parsers, and automation tools;
+- civic-tech solutions for socially significant tasks;
+- practical digital products for research, public data, and operational use.
 
-- **data analysis and analytical systems**;
-- **AI for education and applied workflows**;
-- **Telegram bots, parsers, and automation tools**;
-- **civic-tech solutions** for socially significant tasks;
-- practical digital products for **research, public data, and real operational use**.
+I am especially interested in building tools that are not only technically sound, but also **useful in practice**.
 
-I am especially interested in building tools that are not only technically sound,  
-but also **useful in practice**.
+### Русский
+
+Я работаю на стыке **исследований, образования и прикладной цифровой разработки**.
+
+В моей работе сочетаются:
+- анализ данных и аналитические системы;
+- применение ИИ в образовании и рабочих процессах;
+- Telegram-боты, парсеры и инструменты автоматизации;
+- civic-tech решения для общественно значимых задач;
+- практические цифровые продукты для исследований, открытых данных и реального использования.
+
+Мне особенно интересны проекты, которые не просто «работают технически», а действительно **приносят практическую пользу**.
 
 ---
 
-## ✦ Current Role
+## ✦ Current Role / Текущая роль
 
-**Head of the Laboratory of Sociological Research and Informatics**
+**Head of the Laboratory of Sociological Research and Informatics**  
+**Заведующий лабораторией социологических исследований и информатики**
 
-My focus includes:
-- applied digital tools for research and analytics;
-- automation of data collection and processing;
-- educational and practical AI solutions;
-- project development at the intersection of technology and real-world tasks.
+Основные направления моей работы:
+- прикладные цифровые инструменты для исследований и аналитики;
+- автоматизация сбора, обработки и структурирования данных;
+- внедрение ИИ-инструментов в образование и практическую деятельность;
+- разработка проектов на стыке технологий, науки и реальных задач.
 
 ---
 
-## ✦ Now Building
+## ✦ Now Building / Актуальные проекты
 
 ### 🏙 ЖКХ аварии
-Monitoring and data workflows for public utility outages, infrastructure incidents, and socially significant city-level information.
+Система мониторинга аварий и отключений коммунальной инфраструктуры, сбор и нормализация данных, аналитика и civic-tech инструменты для общественно значимой городской информации.
 
 ### 🎨 MarkerMatch
-A tool for detecting, matching, and organizing marker palettes for coloring workflows and creative automation.
+Инструмент для определения, сопоставления и организации цветовых палитр маркеров для раскрасок, творческих задач и автоматизации подбора цветов.
 
 ### 📡 Parsing VK & Telegram
-Data collection, parsing, normalization, and monitoring pipelines for open platform content.
+Сбор, парсинг, нормализация и обработка открытых данных из VK и Telegram для аналитики, исследований и построения прикладных систем.
 
 ### 🧠 MiroFish-related project
-Exploration of agent-based or socially modeled systems built on collected data and structured digital behavior patterns.
+Проект, связанный с моделированием социальных процессов, цифрового поведения и построением структурированных систем на основе собранных данных.
 
 ### 🎯 Darts bot & platform
-A digital ecosystem for darts training, tracking, scoring, and player analytics.
+Цифровая экосистема для дартса: бот, инструменты подсчёта, тренировочные режимы, аналитика игроков и развитие платформенного решения.
 
 ---
 
-## ✦ Main Directions
+## ✦ Main Directions / Основные направления
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### 🔬 Research
+### 🔬 Research / Исследования
 - applied analytics  
 - social data workflows  
 - digital research tools  
 - structured data collection  
 - modeling of real processes  
 
+**Русский:**  
+- прикладная аналитика  
+- работа с социальными данными  
+- цифровые исследовательские инструменты  
+- структурированный сбор данных  
+- моделирование реальных процессов  
+
 </td>
 <td valign="top" width="33%">
 
-### 🎓 Education
+### 🎓 Education / Образование
 - AI in education  
 - digital methods  
 - practical informatics  
 - educational workflows  
 - applied technological literacy  
 
+**Русский:**  
+- ИИ в образовании  
+- цифровые методы  
+- практическая информатика  
+- образовательные процессы  
+- прикладная цифровая грамотность  
+
 </td>
 <td valign="top" width="33%">
 
-### ⚙️ Development
+### ⚙️ Development / Разработка
 - Python tools and scripts  
 - Telegram bots  
 - parsers and pipelines  
 - automation systems  
 - platform-oriented products  
+
+**Русский:**  
+- инструменты и скрипты на Python  
+- Telegram-боты  
+- парсеры и пайплайны обработки данных  
+- системы автоматизации  
+- платформенные продукты  
 
 </td>
 </tr>
@@ -113,7 +148,7 @@ A digital ecosystem for darts training, tracking, scoring, and player analytics.
 
 ---
 
-## ✦ Core Stack
+## ✦ Core Stack / Технологии
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -128,22 +163,22 @@ A digital ecosystem for darts training, tracking, scoring, and player analytics.
 
 ---
 
-## ✦ Active Project Landscape
+## ✦ Active Project Landscape / Ландшафт проектов
 
-### 🏙 Civic-Tech & Public Data
-Projects related to public infrastructure, utilities, monitoring, and socially relevant city data.
+### 🏙 Civic-Tech & Public Data / Городские данные и civic-tech
+Проекты, связанные с городской инфраструктурой, коммунальными сервисами, мониторингом и обработкой общественно значимых данных.
 
-### 🎨 Creative Tools & Automation
-Applied tools for marker matching, palette workflows, and creative assistance systems.
+### 🎨 Creative Tools & Automation / Творческие инструменты и автоматизация
+Прикладные инструменты для работы с палитрами, автоматизации творческих процессов и цифровых помощников.
 
-### 📡 Social Platform Parsing
-Parsing and processing public data from VK and Telegram for research and system-building purposes.
+### 📡 Social Platform Parsing / Парсинг социальных платформ
+Сбор и обработка открытых данных из VK и Telegram для аналитики, исследований и построения новых систем.
 
-### 🧠 Simulation & Digital Society Models
-Projects related to structured social data, modeling, and systems inspired by MiroFish-like ideas.
+### 🧠 Simulation & Digital Society Models / Модели цифрового общества
+Проекты, связанные с моделированием, агентными системами и анализом цифрового поведения на основе собранных данных.
 
-### 🎯 Sports Tech
-Bots and platforms for darts scoring, training, and player analytics.
+### 🎯 Sports Tech / Спортивные цифровые решения
+Боты и платформы для дартса, тренировки, статистики, аналитики и поддержки игроков.
 
 ---
 
@@ -160,21 +195,31 @@ Bots and platforms for darts scoring, training, and player analytics.
 
 ---
 
-## ✦ Philosophy
+## ✦ Philosophy / Подход
 
 I am interested in building systems that connect:
+- data and action
+- technology and practical value
+- research and implementation
+- automation and real human workflows
 
-- **data and action**
-- **technology and practical value**
-- **research and implementation**
-- **automation and real human workflows**
+### Русский
 
-For me, technology is most valuable when it helps structure complexity,  
-improve decision-making, and solve real problems.
+Мне интересны системы, которые соединяют:
+- **данные и действие**
+- **технологии и практическую пользу**
+- **исследование и внедрение**
+- **автоматизацию и реальные рабочие процессы**
+
+Для меня технология ценна тогда, когда она помогает:
+- структурировать сложность;
+- улучшать принятие решений;
+- экономить время и усилия;
+- решать реальные, а не абстрактные задачи.
 
 ---
 
-## ✦ Contact
+## ✦ Contact / Контакты
 
 - VK: [vk.com/tahhep1](https://vk.com/tahhep1)
 - ORCID: [0000-0003-1075-2962](https://orcid.org/0000-0003-1075-2962)
