@@ -1,16 +1,25 @@
-## Hi there 👋
+Researcher, educator, and builder of practical AI/data tools.
 
-<!--
-**tahhep/tahhep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- Researcher in mathematical modeling / systems analysis
+- Teaching AI and informatics
+- Building Telegram bots, parsers, civic-tech and EdTech projects
+- Interested in Python, automation, data collection, and applied AI
 
-Here are some ideas to get you started:
+## Current focus
+- Saratov utility monitoring project
+- Admission campaign data modeling
+- Telegram bots and parsers
+- AI for education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+- Python
+- FastAPI
+- Telethon
+- Docker
+- GitHub
+- Data pipelines
+
+## Contacts
+- VK: [[[мой VK](https://vk.com/tahhep1)
+- ORCID: [мой ORCID](https://orcid.org/my-orcid?orcid=0000-0003-1075-2962)
