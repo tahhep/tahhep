@@ -2,143 +2,152 @@
 
 # Andrei Fomin
 
-### Researcher • Educator • Builder of AI, Data & Civic-Tech Tools
+### Head of the Laboratory of Sociological Research and Informatics  
+### Researcher · Educator · Builder of AI, Data & Civic-Tech Systems
 
 <p>
-  <a href="https://orcid.org/ВАШ_ORCID">
+  <a href="https://orcid.org/0000-0003-1075-2962">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
-  <a href="https://vk.com/ВАШ_ID">
+  <a href="https://vk.com/tahhep1">
     <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Applied-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data-Workflows-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EdTech-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Applied-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Civic--Tech-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Systems-334155?style=for-the-badge" />
 </p>
 
 <p>
-  <i>Building useful digital tools for research, education, and real-world tasks.</i>
+  <i>Building practical digital systems for research, education, analytics, and real-world public tasks.</i>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## ✦ About
 
-I work at the intersection of **research, education, and practical development**.
+I work at the intersection of **research, education, and applied digital development**.
 
-- 🎓 PhD researcher in **mathematical modeling / systems analysis**
-- 🏛 University educator in **AI, informatics, and digital methods**
-- 🤖 Building **Telegram bots, parsers, automation tools, and data workflows**
-- 📊 Interested in **applied AI, analytics, civic-tech, and EdTech**
-- 🧩 Focused on creating tools that solve **real institutional and social problems**
+My work combines:
 
----
+- **data analysis and analytical systems**;
+- **AI for education and applied workflows**;
+- **Telegram bots, parsers, and automation tools**;
+- **civic-tech solutions** for socially significant tasks;
+- practical digital products for **research, public data, and real operational use**.
 
-## 🚀 Current focus
-
-- 🏙 **Utility monitoring and civic-tech solutions**
-- 🧠 **Admission campaign modeling and analytics**
-- 📚 **AI for education and research workflows**
-- 🔧 **Telegram ecosystem tools, parsers, and automation**
-- 📈 **Data normalization, ETL, and applied analytics**
+I am especially interested in building tools that are not only technically sound,  
+but also **useful in practice**.
 
 ---
 
-## 🧭 Main directions
+## ✦ Current Role
+
+**Head of the Laboratory of Sociological Research and Informatics**
+
+My focus includes:
+- applied digital tools for research and analytics;
+- automation of data collection and processing;
+- educational and practical AI solutions;
+- project development at the intersection of technology and real-world tasks.
+
+---
+
+## ✦ Now Building
+
+### 🏙 ЖКХ аварии
+Monitoring and data workflows for public utility outages, infrastructure incidents, and socially significant city-level information.
+
+### 🎨 MarkerMatch
+A tool for detecting, matching, and organizing marker palettes for coloring workflows and creative automation.
+
+### 📡 Parsing VK & Telegram
+Data collection, parsing, normalization, and monitoring pipelines for open platform content.
+
+### 🧠 MiroFish-related project
+Exploration of agent-based or socially modeled systems built on collected data and structured digital behavior patterns.
+
+### 🎯 Darts bot & platform
+A digital ecosystem for darts training, tracking, scoring, and player analytics.
+
+---
+
+## ✦ Main Directions
 
 <table>
-  <tr>
-    <td valign="top" width="33%">
-      
+<tr>
+<td valign="top" width="33%">
+
 ### 🔬 Research
-- mathematical modeling  
-- systems analysis  
-- data collection  
 - applied analytics  
-- digital research workflows
+- social data workflows  
+- digital research tools  
+- structured data collection  
+- modeling of real processes  
 
 </td>
-    <td valign="top" width="33%">
+<td valign="top" width="33%">
 
 ### 🎓 Education
-- AI and informatics teaching  
-- EdTech course development  
-- practical digital literacy  
-- neural networks in education  
-- academic workflow support
+- AI in education  
+- digital methods  
+- practical informatics  
+- educational workflows  
+- applied technological literacy  
 
 </td>
-    <td valign="top" width="33%">
+<td valign="top" width="33%">
 
 ### ⚙️ Development
 - Python tools and scripts  
 - Telegram bots  
-- parsers and ETL pipelines  
-- workflow automation  
-- data-driven services
+- parsers and pipelines  
+- automation systems  
+- platform-oriented products  
 
 </td>
-  </tr>
+</tr>
 </table>
 
 ---
 
-## 🛠 Technologies
+## ✦ Core Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-5B5B5B?style=flat-square" />
   <img src="https://img.shields.io/badge/Data%20Pipelines-6B7280?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-52525B?style=flat-square" />
   <img src="https://img.shields.io/badge/Analytics-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Civic--Tech-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 📌 Featured themes
+## ✦ Active Project Landscape
 
-- 🏠 Utility and public infrastructure monitoring
-- 🎯 Admission campaign analytics and modeling
-- 🤖 AI in education
-- 💬 Telegram tools and ecosystem automation
-- 🗂 Parsing, normalization, and data processing
-- 🧪 Practical tools for research and academic work
+### 🏙 Civic-Tech & Public Data
+Projects related to public infrastructure, utilities, monitoring, and socially relevant city data.
 
----
+### 🎨 Creative Tools & Automation
+Applied tools for marker matching, palette workflows, and creative assistance systems.
 
-## 📂 Public repositories
+### 📡 Social Platform Parsing
+Parsing and processing public data from VK and Telegram for research and system-building purposes.
 
-- [Telegramcommentpars](https://github.com/tahhep/Telegramcommentpars) — Telegram parsing / data collection project
-- [telegrampars2](https://github.com/tahhep/telegrampars2) — parser-related experimentation and development
-- [xlmpars](https://github.com/tahhep/xlmpars) — parsing and data processing project
+### 🧠 Simulation & Digital Society Models
+Projects related to structured social data, modeling, and systems inspired by MiroFish-like ideas.
 
-> More projects are being gradually organized, documented, and published.
+### 🎯 Sports Tech
+Bots and platforms for darts scoring, training, and player analytics.
 
 ---
 
-## 🧱 Project landscape
-
-### 🏙 Civic-Tech
-Tools for monitoring public infrastructure, utilities, and socially important data.
-
-### 🎓 Education & AI
-Courses, materials, and practical AI adoption in teaching and academic workflows.
-
-### 📊 Research & Modeling
-Analytical systems, mathematical modeling, and data-driven university processes.
-
-### 🤖 Bots & Automation
-Telegram bots, parsers, assistants, and workflow automation tools.
-
----
-
-## 📈 GitHub stats
+## ✦ GitHub Insights
 
 <div align="center">
 
@@ -151,20 +160,29 @@ Telegram bots, parsers, assistants, and workflow automation tools.
 
 ---
 
-## 🌍 Philosophy
+## ✦ Philosophy
 
-I am interested in building tools that are not only technically functional,  
-but also **useful in practice** — for universities, research, education, analytics, and public-facing services.
+I am interested in building systems that connect:
+
+- **data and action**
+- **technology and practical value**
+- **research and implementation**
+- **automation and real human workflows**
+
+For me, technology is most valuable when it helps structure complexity,  
+improve decision-making, and solve real problems.
 
 ---
 
-## 📫 Contacts
+## ✦ Contact
 
-- VK: [VK profile](https://vk.com/tahhep1)
-- ORCID: [ORCID profile](https://orcid.org/my-orcid?orcid=0000-0003-1075-2962)
+- VK: [vk.com/tahhep1](https://vk.com/tahhep1)
+- ORCID: [0000-0003-1075-2962](https://orcid.org/0000-0003-1075-2962)
 
 ---
 
 <div align="center">
-  <sub>Designed as a professional GitHub profile README for research, education, AI, and applied development.</sub>
+
+`research × education × ai × civic-tech × parsing × automation`
+
 </div>
