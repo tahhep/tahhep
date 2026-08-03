@@ -4,7 +4,7 @@
 
 Работаю на пересечении образования, исследований и технологий. Создаю курсы, анализирую данные и разрабатываю цифровые инструменты для университетской среды и реальных рабочих процессов.
 
-[Сайт FomLab](https://fomlab.ru) · [Telegram](https://t.me/fomlab) · [VK](https://vk.com/tahhep1) · [ORCID](https://orcid.org/0000-0003-1075-2962)
+[Сайт FomLab](https://fomlab-andrey-fomin.tahhep2025.chatgpt.site) · [Telegram](https://t.me/fomlab) · [VK](https://vk.com/tahhep1) · [ORCID](https://orcid.org/0000-0003-1075-2962)
 
 ---
 
@@ -59,4 +59,4 @@ FomLab — авторская лаборатория об образовании
 
 ## Контакты
 
-Основная точка входа: [fomlab.ru](https://fomlab.ru)
+Основная точка входа: [сайт FomLab](https://fomlab-andrey-fomin.tahhep2025.chatgpt.site)
